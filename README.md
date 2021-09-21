@@ -1,4 +1,6 @@
 # OrderApp
+Part of the Developing in Swift Curriculum (Data Collections) provided by Apple.
+
 App for ordering food from a server hosted locally that has menu items. Created in UIKit
 
 You can start the server by navigating to "server/Open Restaurant", opening the app and hitting start.
